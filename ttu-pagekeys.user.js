@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Corrects PageUp/PageDown events to work properly in ッツ
 // @author       Manhhao
-// @run-at       document-idle
+// @run-at       document-start
 // @grant        none
 // ==/UserScript==
 
